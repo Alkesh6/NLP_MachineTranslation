@@ -11,5 +11,7 @@ This is the source of dataset used in this project.
 # Outputs
 Here are the expected outcomes of this project.
 ![Output for Hindi Language](https://github.com/Alkesh6/NLP_MachineTranslation/blob/main/outputs/hin.png)
+
 ![Output for Marathi Language](https://github.com/Alkesh6/NLP_MachineTranslation/blob/main/outputs/mar.png)
+
 ![Output for Telugu Language](https://github.com/Alkesh6/NLP_MachineTranslation/blob/main/outputs/tel.png)
